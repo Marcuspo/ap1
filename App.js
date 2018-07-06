@@ -12,7 +12,6 @@ const geraNumerosAleatorios = () => {
         alert(numero_aleatorio);
 };
 
-
 const App = () => {
 
     return  (
